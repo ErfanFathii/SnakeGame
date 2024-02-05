@@ -1,2 +1,2 @@
 # SnakeGame
-Simple game with graphical output
+- Simple game with graphical output
